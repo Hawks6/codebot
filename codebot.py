@@ -1,0 +1,2 @@
+from llama_index import GPTchromaIndex, simpleDirectoryReader
+from dotenv import load_dotenv
